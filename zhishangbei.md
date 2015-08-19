@@ -1,4 +1,4 @@
-title: "Hello World"
+title: "8月17日智商杯"
 date: 2015-08-19 16:53:35
 tags: Miscellaneous
 ---
